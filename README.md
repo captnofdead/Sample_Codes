@@ -13,3 +13,5 @@ a code for Competitive programming problem in C++ language.
 * genetic_algo.c 
 a code in C language.
 
+* picard_matlab.m has picard's theorm implimentation in matlab.
+
