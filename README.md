@@ -10,7 +10,7 @@ contains the implementation of MCTS and Q-Learning for connect-4 games.
 * problem_d.cpp 
 a code for Competitive programming problem in C++ language.
 
-* genetic_algo.c 
+* os_code.c 
 a code in C language.
 
 * Picards_matlab.m has picard's theorm implimentation in matlab.
